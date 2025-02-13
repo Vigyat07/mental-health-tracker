@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mental-health-tracker-fc755",
+  "private_key_id": "2f74311913a67b63fd37dcdf899a4ea4dc66089a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjzQym6AaWDecp\nVGh6hbmQxaR5ekB2EgLp0sNGPbcAV3GKfE1nz5AH7WbecqOnTOkNqraBzwJl36tg\nuFFuvL7bQOKMgaQvATCbi28XgQ0imZEJuWFMcK2bwyOAnUAOMNYWaNnxuiH1s+UD\nmxKJnYBst8EkYkX9uhrWS3whyTGuPZT+reTbSUwcEoAq2vfr0r1RTqbFsxxENvq8\nP9+LoedBjztmg9+IxKrn3uYSiU7OPeUmI4Y7MFkLUPxlxGV+tV+r6lWCjN45W4wf\nVZjLMEV1gLV+EG2sRU0GpGNm5cCzPJ4AGbWuOIyqadYrFhZGbwZteCZHbxAz/kmz\nJ8pOqFQLAgMBAAECggEAHMko+6BfUK/iEZlueGkUiWRIQ+d8ZM8i2hw9e89JpDvo\nh5jsiR0z9KR9tsdiwb3Yx1bWqDGZ+niYpei0tZsZPQiGeD3bmur6EvW8LIqst74T\nE1j/IBMvBPtULajxUrm+G+fU/pRIPU2lt15tqcEi3NodiHT4pjbRtFmmjnhnlD5L\n2uoMS+femmK9jWxuDOhCzsbx8H/ku0TkxryG+W0qFc01+BdYox/teCG/ibkUXbAd\n2lGeZjZRu1Ul3ec8D8TWlBf/3XIouRnZAiIJHGpseUR6tecFhSxFEv8dx3dUTWhe\nMB3IlY3bhoqzElnSf5CxWJ5mRpYxkCnnFFzOVcbMIQKBgQD4TbWfDO9kTpLu71Px\nRbVyXVkhEKR8iZJQpmYKF1XufoooIETOEGgwA7CJKhu7NHvMrn5o6IT/K0KqMsVN\nYac62m2EMcMFCf6HGDFb0imOj2AigHwuxctant2Wugq9qznSEtSbdQcQSxOHCbvH\nDsN6hIFGEGRzyEcCqcgGAXkLawKBgQDq3KbfyBIkcdknKt3EQR1JQGmrINaC0jHL\nAL5wY1ZLyxA19s652afXXRKBdmuAsIKZuqH8VE0KGfVWep34Cro0zVPUSOupQ1Cm\nvv2u2uaxWCIW7YNS2SD1UX+VphkLYr+m9MxGjn9d6VaJlXZp0inrLAlRel6MdYAv\nLfpOfgWh4QKBgBI6Sinp3i0D459srEHa9y31ElTuDtUhmD8ZaAY3nlRKr8OwUry5\n0ZwsuSnokG6WtLva12bGIvVEbLlnzroWgBs+66k3qfRVvnyWVxFBhVF0zv7ZZcRd\nOsdlQCkPcThpOG5meXsMBT+58y4HleRP/iOhVIgbLfSd8DCO3CMsuoEPAoGBAKpk\nWWFDqv3r5ysGa4xl3VR2ufMgyOBylRN9v6yUNViZw3ITVJn7ckzKRpHMk2PzK11S\nzRDfLGFmwdry7Ma3Ka8DRI1gNjFAGDRRnoUMZZBGq7zMppkl1EaG0TSGI+dhxj/f\nnJCX84nzrwf0est9YVIwSbZmPFBVMyGHjvEBdx6hAoGBAIACLCsY0rhkE9oCNmd0\n695LAPEFv33mGNDCpPWrlQd7tNzSrROidM5z9aPjKNaa8J8lEFa0A1OvEKOH7HTF\nMhV3Ikfbrh2ycV8l6gB4hH4qrs+cqyGb61924TrVggDoNwzlNT0GonVxbxnlct29\nV1Hx8/pXJpHJ2xrw0j3As9Bs\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@mental-health-tracker-fc755.iam.gserviceaccount.com",
+  "client_id": "117684753497175054653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40mental-health-tracker-fc755.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
